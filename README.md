@@ -9,7 +9,7 @@ TO INSTALL: npm install -g json-server
 TO START: json-server --watch db.json
 ```
 
-Each burger that we `fetch` from the database should look like the following:
+Each burger that we `fetch` from the database should have the following classes when appending it to the DOM:
 
 ```
 <div class="burger">
