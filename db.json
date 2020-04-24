@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Good Burger",
       "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
+      "image": "https://vignette.wikia.nocookie.net/spongebob/images/d/d4/Krabby_Patty_transparentpng.png/revision/latest?cb=20170310181007"
     },
     {
       "id": 2,
@@ -40,7 +40,7 @@
       "id": 7,
       "name": "HamBougie",
       "description": "Not Bad, But Bougie",
-      "image": "https://timedotcom.files.wordpress.com/2016/05/160528_gal_burger_blingburger.jpg"
+      "image": "https://vegnews.com/media/W1siZiIsIjEwMjEwL1ZlZ05ld3MuQnVyZ2VyUmluZy5wbmciXSxbInAiLCJ0aHVtYiIsIjY4MHg0MDIjIix7ImZvcm1hdCI6ImpwZyJ9XSxbInAiLCJvcHRpbWl6ZSJdXQ/VegNews.BurgerRing.png?sha=bc660157d90dc7a2"
     },
     {
       "id": 8,
@@ -51,7 +51,7 @@
     {
       "id": 9,
       "name": "Veggie Burger",
-      "description": "Not Really a Burger",
+      "description": "A Good Alternative",
       "image": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-recipe-0.jpg"
     },
     {
